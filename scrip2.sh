@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Ruta al archivo cuentas.txt
-archivo="~/cuentas.txt"
+directorio=$(dirname "$0")
+archivo="$directorio/cuentas.txt"
 
 # Leer el archivo línea por línea y asignar los valores
 while IFS=: read -r usuario nombre password grupo1 grupo2 grupo3 || [ -n "$linea" ]; do
