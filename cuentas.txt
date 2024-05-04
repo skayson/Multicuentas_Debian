@@ -1,0 +1,10 @@
+usuario21:MarcelaSantos567:segura123:ventas:administracion:capacitacion
+usuario22:RicardoChavez890:abcd456:produccion:logistica:almacen
+usuario23:ValeriaMendoza123:pass12345:marketing:soporte:desarrollo
+usuario24:JulioRojas456:seguro123:tecnico:soporte:infraestructura
+usuario25:CarolinaGutierrez789:clave1234:servicios_generales:administracion:contabilidad
+usuario26:EstebanVega012:contraseña321:compras:logistica:almacen
+usuario27:SilviaPerez345:abcde123:finanzas:administracion:auditoria
+usuario28:RodrigoFlores678:passw123:proyectos:desarrollo:calidad
+usuario29:AlejandraLopez901:segura456:legal:administracion:recursos_humanos
+usuario30:MartinSanchez234:abcd789:tecnico:soporte:desarrollo
